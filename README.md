@@ -1,2 +1,2 @@
 # javascript
-every project related to javascript
+Only javascript projects
